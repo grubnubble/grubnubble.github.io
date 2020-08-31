@@ -1,5 +1,6 @@
-theme: jekyll-theme-minimal
 title: A Communist Starts a Business
+
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
