@@ -3,12 +3,12 @@
 
 @charset "utf-8";
 
-$hover-over:            #2ba856 !default;
-$anchor:                lighten($hover-over, 20%) !default;
+$hover-over:            #185429 !default;
+$anchor:                lighten($hover-over, 15%) !default;
 
-$brand-color:           $hover-over !default;
-$brand-color-light:     lighten($brand-color, 5%) !default;
-$brand-color-dark:      darken($brand-color, 25%) !default;
+$brand-color:           #420080 !default;
+$brand-color-light:     lighten($brand-color, 50%) !default;
+$brand-color-dark:      darken(#bb99ff, 25%) !default;
 
 $text-color:            #bbbbbb !default;
 $background-color:      #181818 !default;
@@ -37,7 +37,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: $brand-color-dark;
+  color: $brand-color-light;
   margin:0 0 20px;
 }
 
