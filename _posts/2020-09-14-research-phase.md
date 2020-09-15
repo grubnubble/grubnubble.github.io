@@ -1,7 +1,9 @@
 ---
 layout: post
 ---
-A few weeks ago, I wrote up an outline for what I would like to accomplish for the theater for the rest of the year. It certainly doesn’t make sense to try to open a business that depends on many people being inside, sitting next to each other in an enclosed space during a pandemic. I figured it is a good time to put effort into research so that I have a strong foundation when the time comes to start raising capital and finding a location. An added bonus is that an extended time for research will help me foster relationships with people who want to get involved. It’s also a great opportunity to drum up support for the theater so that it has the best chance of success when it opens.
+A few weeks ago, I wrote up an outline for what I would like to accomplish for the theater for the rest of the year. It certainly doesn’t make sense to try to open a business that depends on many people being inside, sitting next to each other in an enclosed space during a pandemic.
+
+I figured it is a good time to put effort into research so that I have a strong foundation when the time comes to start raising capital and finding a location. An added bonus is that an extended time for research will help me foster relationships with people who want to get involved. It’s also a great opportunity to drum up support for the theater so that it has the best chance of success when it opens.
 
 I took the main, kind of vague goal for “research” and broke it up into smaller goals so that I would have some focus for each month. In August, my goal was to get a blog site up and running. I wasn’t sure what that would look like -- if I would use an existing site like Medium or create something a bit more DIY. I ended up using Jekyll to create the site and am hosting it through GitHub with a custom domain. Part of the reason I went this route was because I was concerned about the potential for paywalls and clandestine data collection if I used a third party. 
 
