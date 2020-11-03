@@ -1,6 +1,8 @@
+name: A Communist Starts a Business
+description:  Creating a movie theater cooperative in South Philly
+url: https://acsab.blog
 title: A Communist Starts a Business
 logo: /assets/img/logo.png
-
 theme: jekyll-theme-minimal
 
 plugins:
