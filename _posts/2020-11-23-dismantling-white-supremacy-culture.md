@@ -1,0 +1,10 @@
+---
+layout: post
+---
+One way that I think we can build a Real Utopia in the movie theater co-op is to teach members and employees about white supremacy and racism. There is a document I read a few years ago called [White Supremacy Culture](https://www.dismantlingracism.org/uploads/4/3/5/7/43579015/whitesupcul13.pdf) that I think about often. It opened my eyes to some of the activities and ideals I have held up as good things in the past, but that actually perpetuate white supremacy. 
+
+It turns out that I didn’t know what white supremacy culture. The document makes it clear that white supremacy is much more subtle and insidious than white hoods and cross burning. It is of course all of that, too, but there is a way that each of us has a hand in perpetuating it. If left unexamined and unchanged, these tendencies will be passed down generation to generation. It also taught me how damaging the characteristics of white supremacy culture are. 
+
+I recommend reading through the bolded points in the document, absorbing them, and picking one that surprises you to read more about. There might be a lot that surprises you. Grappling with how the actions in the document support a white supremacist lense is a useful exercise.
+
+My hope is to use the White Supremacy Culture document as a way to fight racism within the organization once the co-op is up and running. I would love to have a system where each week, one of the characteristics is displayed and everyone is encouraged to reflect on that characteristic and try out some of the antidotes. These kinds of activities help us recognize that fighting racism is an ongoing task. There won’t be some magical moment in our lives when we are totally done learning. It would be great to have an organization that is able to foster growth instead of shame, and I think practices like this could go a long way toward that goal.
