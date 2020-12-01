@@ -1,0 +1,14 @@
+---
+layout: post
+---
+During my interviews, I spoke with a [theater in Knoxville, TN,](https://centralcinema865.com/) that got its start doing screenings in bars and outdoor venues. Since we are a long way from being able to open new movie theaters in a traditional sense, I have been thinking that doing travelling outdoor screenings would be the best way to start.
+
+This would allow me to gain experience holding events, help to forge connections with other businesses, and get our name (whatever that ends up being!) out there. Once we have a social media following, it will be easier to get more community buy-in for the project. 
+
+There are some things that I need to get prepared before we start doing public events, and for that reason I am going to be doing an informal, private, outdoor screening for New Year’s Eve. I have a very small, very [cheap projector](https://www.amazon.com/Meyoung-Projector-Theater-Projectors-Smartphone/dp/B01N8WU4VI) that I bought a couple of years ago for fun. I used to live in West Philly and had a huge bedroom with a wall that I thought would be perfect for projecting onto, but it didn't work out because the wall was quite lumpy. The lumpiness made it so that whenever one part of the picture was in focus, another part of the picture went out of focus. 
+
+There's a small parking lot outside of my current apartment building, which I am hoping will be a little flatter than my West Philly bedroom wall. The plan for New Year's is to invite some friends over to a BYO chair parking lot screening, where I will project onto a bit of the building that doesn’t have [mirror mosaics all over it](https://www.phillymagicgardens.org/).
+
+I thought at first that I would be able to stream something from Netflix, but I don’t actually think that the internet from my third floor apartment would reach the ground level, so I ordered a blu-ray player. Next is handling the sound. I am thinking that I could buy a pair of amps and hook them up to the projector. Since Guitar Center recently filed for bankruptcy, I’m hoping to pick them up from there at a discount. I have no idea what to look for in an amp, but I will be looking for something that is portable and can be hooked up to a projector via a headphone jack, most likely.
+
+Before we start doing public events, I will need to invest in a better projector, but I should be able to use the rest of the equipment that I am collecting now. The whole thing is starting to shape up, and I am pleased to have something concrete to plan for. All of the research and interviews have been extremely useful, but without a connection to something more tangible, it has been easy for me to go down the path of despair and think that the movie theater is too big of an idea and it won’t ever get done. Doing an outdoor screening for friends has saved me from the path of self-doubt for now!
